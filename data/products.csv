@@ -1,1 +1,6 @@
-
+| Product_ID | Product_Name | Category    |
+| ---------- | ------------ | ----------- |
+| P101       | iPhone Case  | Accessories |
+| P102       | Headphones   | Electronics |
+| P103       | Charger      | Accessories |
+| P104       | Smart Watch  | Electronics |
