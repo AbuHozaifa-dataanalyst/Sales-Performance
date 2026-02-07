@@ -32,3 +32,7 @@ This project analyzes retail sales data to help management monitor performance a
 
 ## Tools Used
 Power BI | DAX | Excel
+
+## Branch Practice
+This change was made in a separate branch to practice safe updates.
+
